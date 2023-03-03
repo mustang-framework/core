@@ -1,0 +1,6 @@
+{
+    "name": "mustang-framework/{{_container-name}}",
+    "description": "{{container-name}} Container for Mustang.",
+    "require": {
+    }
+}
